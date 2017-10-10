@@ -1,0 +1,101 @@
+id,company_name,job_title,longitude,latitude
+1,Tagtune,Office Assistant I,65.7847269,38.8611918
+2,Kazio,Software Engineer II,-86.2907568,12.5258542
+3,Fivechat,Help Desk Technician,-15.6177942,11.8816553
+4,Kaymbo,Structural Analysis Engineer,-89.8452348,13.748419
+5,Kazu,Business Systems Development Analyst,42.8285605,16.9672048
+6,Eidel,Community Outreach Specialist,6.087112,45.875212
+7,Linktype,Junior Executive,116.188408,26.141854
+8,Mybuzz,Senior Sales Associate,76.6925385,66.1204228
+9,Tagfeed,Web Developer IV,18.4543113,-34.0479376
+10,Fadeo,VP Accounting,105.9714566,20.0045547
+11,Camido,Marketing Assistant,121.42185,31.189496
+12,Quinu,Systems Administrator II,72.1297653,40.2487413
+13,Zoomzone,Administrative Officer,101.7178316,3.1523104
+14,Rhyloo,Operator,104.167501,31.12678
+15,Twiyo,Software Test Engineer I,34.7395478,-12.0663691
+16,Kazu,Financial Advisor,122.0953896,11.5294306
+17,Shuffledrive,Database Administrator III,47.5136153,58.2768797
+18,Gabtype,Data Coordiator,107.1781769,-6.8008183
+19,Yamia,Accountant I,5.1175293,52.08234
+20,Voomm,Account Executive,115.77735,24.467141
+21,Dabfeed,Web Developer IV,-109.16818,51.46681
+22,Voomm,VP Quality Control,6.0453754,49.5206119
+23,Photobug,Human Resources Manager,37.6243984,55.7213148
+24,Demivee,VP Quality Control,120.4155972,-8.7820436
+25,Rhynyx,Nurse,25.873962,40.8457193
+26,Gabtune,Recruiter,117.324531,39.22909
+27,Dynava,Junior Executive,-70.0957159,18.4176704
+28,Vinder,Tax Accountant,20.53556,41.41111
+29,Feedfish,Media Manager II,34.911731,32.305011
+30,Zava,Paralegal,107.760025,29.325601
+31,Rhycero,Operator,12.1646899,57.6890848
+32,Youspan,Senior Sales Associate,5.0840393,51.5742615
+33,Mybuzz,Chief Design Engineer,113.418215,22.676245
+34,Flipstorm,Database Administrator II,5.8827648,49.7314687
+35,Mynte,Safety Technician II,-9.3069187,38.7157106
+36,Quimba,Research Nurse,-3.0626284,13.0695031
+37,Skivee,Paralegal,-62.2288223,-32.9444147
+38,Wikivu,Cost Accountant,5.8271439,53.2065166
+39,Skinder,Recruiter,128.4136847,50.9076315
+40,Browseblab,Staff Accountant III,36.2316564,53.5180347
+41,Zoonder,Analyst Programmer,-87.6568799,14.279014
+42,Eabox,Chief Design Engineer,-40.8388865,-2.9014475
+43,Jaxnation,Office Assistant II,104.874073,29.272581
+44,Abatz,Automation Specialist II,19.2779375,53.1371437
+45,Jazzy,General Manager,109.4616074,-7.0277395
+46,Jetwire,Media Manager I,15.282715,58.5594907
+47,Meemm,Technical Writer,125.930865,47.299613
+48,Divavu,Senior Financial Analyst,20.006257,41.6089452
+49,Bubblebox,Web Designer I,120.9618758,14.7601163
+50,Jaloo,Pharmacist,-2.7033575,42.8563356
+51,Browsebug,VP Marketing,17.2581487,52.5687063
+52,Photojam,Quality Engineer,106.0081819,-6.3947391
+53,Thoughtworks,Director of Sales,100.9192009,14.5302201
+54,Wordtune,Financial Advisor,2.1463759,48.9449573
+55,Brainverse,VP Sales,41.75,22.43
+56,Bubbletube,Structural Engineer,73.6086655,46.119266
+57,Voolia,Staff Scientist,-46.04349,60.910493
+58,Vimbo,Cost Accountant,108.957345,19.238934
+59,Zoovu,Executive Secretary,24.4417258,60.7207077
+60,Devbug,Graphic Designer,112.9733,-8.2791
+61,Photobean,Web Designer III,110.152436,29.461194
+62,Jaloo,Software Engineer II,85.297513,28.851022
+63,Flipopia,Software Consultant,121.1293312,14.5643857
+64,Jetpulse,Environmental Tech,113.83172,42.53283
+65,Muxo,Safety Technician II,125.8239543,7.7688818
+66,Quamba,Senior Cost Accountant,107.763621,13.541918
+67,Photojam,Assistant Manager,-47.4147321,-22.570834
+68,Tambee,Compensation Analyst,111.9603596,51.7419091
+69,Zoombeat,Software Engineer IV,-101.694732,21.1078535
+70,Fiveclub,Assistant Manager,-72.017927,19.6925744
+71,Oyoloo,VP Marketing,134.5849521,34.0108524
+72,Skyble,VP Product Management,14.222154,42.4353312
+73,Kaymbo,Automation Specialist II,113.51969,-7.15376
+74,Janyx,Quality Engineer,2.0308233,44.1675867
+75,Vipe,Sales Representative,111.6556388,-7.5450262
+76,Rhyloo,Professor,37.8777561,15.5406754
+77,Oyoyo,Community Outreach Specialist,111.2882,-6.9318
+78,Brainlounge,Director of Sales,7.3732655,5.1215877
+79,Skivee,Programmer III,2.3081396,49.8905368
+80,Youbridge,GIS Technical Architect,109.878143,18.792633
+81,Gabtype,Civil Engineer,105.6259,-6.7267
+82,Feedfire,VP Accounting,39.1803741,6.9791945
+83,Chatterbridge,Senior Sales Associate,106.7088124,46.208449
+84,Yata,Internal Auditor,-52.5257016,-30.5454936
+85,Kaymbo,Senior Developer,21.5301636,52.8779171
+86,Skynoodle,Mechanical Systems Engineer,22.8634338,54.7747231
+87,Eimbee,Administrative Officer,125.1367621,6.3726849
+88,Avavee,Budget/Accounting Analyst III,-7.3093756,38.1370922
+89,Ooba,Web Developer IV,108.8076195,23.7247599
+90,Bubblebox,Financial Analyst,73.7008274,31.4840951
+91,Buzzdog,Recruiter,124.870243,12.532252
+92,Livetube,Dental Hygienist,-75.170429,4.874181
+93,Thoughtstorm,Administrative Officer,106.4032,-6.538
+94,DabZ,Nuclear Power Engineer,31.5883709,30.6701145
+95,Babbleblab,Mechanical Systems Engineer,108.9469437,34.2698909
+96,Edgeify,Sales Representative,118.9907046,-9.5899907
+97,Tagfeed,Analyst Programmer,31.8477213,-18.1450471
+98,Zoomcast,Civil Engineer,29.9085976,59.8863041
+99,Vimbo,Speech Pathologist,44.5222246,40.4530275
+100,Bluejam,Operator,-7.9809124,40.7182748

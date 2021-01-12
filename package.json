@@ -10,7 +10,7 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
     "express": "^4.15.4",
-    "fast-csv": "^2.4.0",
+    "fast-csv": "^4.6.0",
     "formidable": "^1.1.1",
     "jade": "~1.11.0",
     "mongodb": "^2.2.31",
